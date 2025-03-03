@@ -24,6 +24,9 @@ This project is a web-based spreadsheet application that mimics the functionalit
 ### Data Visualization:
 - **Chart Creation**: Users can generate a chart based on selected data.
 
+### LINK TO RUN THE PROJECT:  http://localhost:8000:
+            This projects can able to run only in the localhost
+
 ### Testing:
 - **Automated Formula Testing**: Runs test cases on formulas and saves test results in an Excel file.
 
